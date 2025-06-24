@@ -8,10 +8,9 @@ To uncover patterns in student well-being, CGPA performance, study hours, and sa
 
 ## 🧰 Tools Used
 
-- **Excel** – for data cleaning, analysis, and dashboard creation
-- **Power BI (optional)** – dashboard styling (if applicable)
-- **Canva/Figma** – for final UI polish (if used)
-- **GitHub** – for project hosting
+- **Excel** – for data cleaning, analysis, and dashboard creating
+- ![Screenshot 2025-04-13 192529](https://github.com/user-attachments/assets/d9b026a2-231d-4a08-b69a-8fc0895049ab)
+
 
 ## 📊 Key Insights
 
@@ -21,14 +20,6 @@ To uncover patterns in student well-being, CGPA performance, study hours, and sa
 - **Sleep deprivation** issues were severe in **Vasai-Virar** and **Hyderabad**.
 - **Female students** in **Thane** and **Lucknow** reported **lower job satisfaction**.
 
-## 🔍 Methodology
-
-1. **Data Collection**: Cleaned and structured survey data.
-2. **Pre-Analysis**: Defined objectives and key metrics.
-3. **In-Analysis**:
-   - Slicing/dicing by gender, city, CGPA, sleep hours, mental health.
-   - Used pivot tables, charts, and conditional formatting.
-4. **Post-Analysis**: Insights translated into a Recommendations Board.
 
 ## 📌 Recommendations
 
